@@ -27,5 +27,12 @@ This is a Face Recognition Attendance System developed using Tkinter in Python. 
 
    ```bash
    git clone https://github.com/your-username/face-recognition-attendance-system.git
+pip install -r requirements.txt
 
+## Usage
+Launch the application using main.py.
+Explore different features through the provided buttons.
+View student details, manage attendance, and utilize face recognition functionalities.
+
+## License
 Customize the content based on your specific project details and requirements. Make sure to include information about how to install, run, and use your application, as well as how others can contribute to the project. Additionally, include a license file (like `LICENSE` in the example) to specify the terms under which your project is distributed.
